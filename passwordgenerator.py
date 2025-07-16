@@ -1,3 +1,4 @@
+#Simple password generator using the string and random libraries.
 import string
 import random
 
